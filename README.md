@@ -29,7 +29,7 @@ This repository implements a **A Two-Stage Decision Framework** for selecting en
 
 3.  Clone the repo:
     ```bash
-    git clone https://github.com/Bayaola/UAV-Energy-Model-Selection-Framework.git
+    git clone https://github.com/Bayaola/UAV-Energy-Model-Selection.git
     cd UAV-Energy-Model-Selection-Framework
     ```
 
