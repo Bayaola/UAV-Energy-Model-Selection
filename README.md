@@ -2,7 +2,7 @@
 
 [![PyQt5](https://img.shields.io/badge/PyQt5-5.15.10-blue?logo=qt&logoColor=white)](https://www.riverbankcomputing.com/software/pyqt/) [![NumPy](https://img.shields.io/badge/NumPy-1.21%2B-013243?logo=numpy&logoColor=white)](https://numpy.org/) [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4%2B-11557c?logo=matplotlib&logoColor=white)](https://matplotlib.org/) [![Pandas](https://img.shields.io/badge/Pandas-1.3%2B-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![ReportLab](https://img.shields.io/badge/ReportLab-3.6%2B-orange)](https://www.reportlab.com/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This repository implements a **A Two-Stage Decision Framework** for selecting energy consumption models in UAV (Unmanned Aerial Vehicle) simulations. The framework applies a two-stage process:
+This repository implements a **A Two-Stage Decision Framework** for selecting energy consumption models in UAV (Unmanned Aerial Vehicle) simulations, based on our [published paper](https://www.mdpi.com/2504-446X/10/5/358). The framework applies a two-stage process:
 1.  **Feasibility Filtering**: Determines valid modeling strategies based on available resources and data.
 2.  **AHP-Based Ranking**: Ranks feasible strategies using the Analytic Hierarchy Process (AHP) based on user-defined criteria preferences.
 
@@ -77,7 +77,7 @@ View the final ranking of the energy modeling strategies ($O_1 - O_5$).
 Fork, PRs welcome! Report issues for weights/criteria tweaks.
 ## Credits
 - Developed by Bayaola & al. (2026).
-- More details: N/A.
+- More details: [Published paper on MDPI Drones](https://www.mdpi.com/2504-446X/10/5/358).
 
 ## License
 MIT License – see [LICENSE](LICENSE) file.
